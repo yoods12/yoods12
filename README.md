@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Chat app](https://github.com/yoods12/Java-Chat-Team-Project)
 
-- 📫 How to reach me **yoods12@naver.com**
+- 📫 How to reach me **yoods12@naver.com** **yyddss4121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
