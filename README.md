@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dongsu Yoo</h1>
 
-- 🔭 I’m currently working on [Chat app](https://github.com/yoods12/Java-Chat-Team-Project)
+- 🔭 I’m currently working on NULL
 
 - 📫 How to reach me **yoods12@naver.com** **yyddss4121@gmail.com**
 
