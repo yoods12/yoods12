@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dongsu Yoo</h1>
 
-- 🔭 I’m currently working on NULL
+- 🔭 I’m currently working on Game Develop
 
 - 📫 How to reach me **yoods12@naver.com** **yyddss4121@gmail.com**
 
